@@ -1,4 +1,4 @@
-# A Django CRUD application for making notes
+# A Django CRUD application for taking notes
 
 This repo is a sample Django application which serves as a demonstration of how easy it is to build CRUD APIs using [Django](https://www.djangoproject.com/) and [Django Rest Framework](https://www.django-rest-framework.org/)
 
