@@ -8,13 +8,13 @@ To demonstrate CRUD, I built this note taking application that is meant to mimic
 
 The capabilities of this application include
 - Creating a new note with an empty title and content.
-- Read the fields of the newly created note.
 - Updating the newly created note with a title and content.
+- Reading the fields of a note.
 - Partially updating the note by modifying either tile or content.
 - Listing all the notes in the database sorted by last updated timestamp.
 - Deleting a note by marking it as deactivated.
 
-You can find the full tutorial in this blog. Feel free to use this repo as a boilerplate code for any Django application that you are building.
+You can find the full tutorial in [this blog post](https://www.sankalpjonna.com/posts/building-a-django-crud-application-in-minutes). Feel free to use this repo as a boilerplate code for any Django application that you are building.
 
 ## Installation
 
