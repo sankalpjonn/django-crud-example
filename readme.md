@@ -1,4 +1,4 @@
-# Write a CRUD API with Django in 5 minutes
+# A Django CRUD application for making notes
 
 This repo is a sample Django application which serves as a demonstration of how easy it is to build CRUD APIs using [Django](https://www.djangoproject.com/) and [Django Rest Framework](https://www.django-rest-framework.org/)
 
@@ -14,7 +14,7 @@ The capabilities of this application include
 - Listing all the notes in the database sorted by last updated timestamp.
 - Deleting a note by marking it as deactivated.
 
-You can find the full tutorial in [this blog post](https://www.sankalpjonna.com/posts/building-a-django-crud-application-in-minutes). Feel free to use this repo as a boilerplate code for any Django application that you are building.
+You can find the [full tutorial in here](https://www.sankalpjonna.com/posts/building-a-django-crud-application-in-minutes). Feel free to use this repo as a boilerplate code for any Django application that you are building.
 
 ## Installation
 
